@@ -1,0 +1,45 @@
+﻿@{
+    var noticiasSociales = ViewBag.NoticiasSociales as List<Noticia>;
+}
+
+<div class="container stilo">
+    <div class="mb-3 text-center">
+        <h3>Noticias Sociales</h3>
+
+        <div>
+            <h2>Se abre convocatoria para poetas en el Certamen Literario de los juegos
+                Florales de San Marcos Ocotepeque
+            </h2>
+            <p>
+                Los tarabajos de poesia tendran una extension minima de 14 versos y una extension
+                maxima de 84 versos.
+                El festival de Juegos, es uno de los eventos culturales mas importantes de la Zona,
+                puesto que premia a los artistas hondureños.
+                Este evento es organizado por parte de la Corporacion Municipal de San Marcos de Ocotepeque.
+            </p>
+
+            <img class="img-fluid w-50 h-50 imgd" src="~/ImagenA/soc-1.jpg"/>
+            <p>Viernes 14 de Julio del 2023</p>
+        </div>
+
+        @if (noticiasSociales != null && noticiasSociales.Count > 0)
+        {
+            <ul>
+                @foreach (var noticia in noticiasSociales)
+                {
+                    <li>
+                        <h3>@noticia.Titulo</h3>
+                        <p>@noticia.Descripcion</p>
+                        <p>@noticia.FechaPublicacion</p>
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <p>No hay noticias deportivas disponibles.</p>
+        }
+    </div>
+</div>
+
+

@@ -1,0 +1,58 @@
+﻿@{
+    var noticiasDeportivas = ViewBag.NoticiasDeportivas as List<Noticia>;
+}
+
+
+<div class="container stilo">
+    <div class="mb-3 text-center">
+        <h2 class="noti">Noticias Deportivas</h2>
+        <div>
+            <h3>Benzema ficha por el Al Ittihad</h3>
+            <p class="parrafo">El club saudí Al Ittihad anunció este martes el fichaje del francés Karim Benzema
+                hasta 2026 después de que el que era capitán del Real Madrid se despidiera de su
+                afición tras 14 temporadas. La prensa española especula que Benzema recibirá 200 
+                millones de dólares por el movimiento.
+            </p>
+            <img class="img-fluid w-25 imgd" src="~/ImagenA/dp-1.jpg"/>
+            <p>
+                vienes 14 de Julio del 2023
+            </p>
+
+            <h3>Messi llega a Miami</h3>
+            <p class="parrafo">
+                El recibimiento de Leo será una fiesta. Según anunció Inter Miami, el evento llevará el nombre de 
+                'La Revelación' y se realizará este domingo 16 de julio, desde las 21 (hora argentina),
+                en el DRV PNK Stadium de Fort Lauderdale, que tiene una capacidad para 18.000 espectadores.
+            </p>
+            <img class="img-fluid w-25 imgd" src="~/ImagenA/dp-2.jpg" />
+
+            <p>
+                vienes 14 de Julio del 2023
+            </p>
+
+        </div>
+
+        @if (noticiasDeportivas != null && noticiasDeportivas.Count > 0)
+        {
+            <ul>
+                @foreach (var noticia in noticiasDeportivas)
+                {
+                    <li>
+                        <h3>@noticia.Titulo</h3>
+                        <p>@noticia.Descripcion</p>
+                        <p>@noticia.FechaPublicacion</p>
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <p>No hay mas noticias deportivas disponibles.</p>
+        }
+    </div>
+</div>
+
+
+
+
+

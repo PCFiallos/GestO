@@ -1,0 +1,48 @@
+﻿
+@{
+    var noticiasNacionales = ViewBag.NoticiasNacionales as List<Noticia>;
+}
+
+<div class="container stilo">
+    <div class="mb-3 text-center">
+        <h2>Noticias Nacionales</h2>
+
+        <div>
+            <h3>UTH implementa Plataforma CANVAS</h3>
+            <p class="parrafo">
+                La UTH anuncio una nueva implementacion que vendra a fortalecer los metodos 
+                de aprendizaje en sus clases, se trata de la plataforma CANVAS.
+                Es la plataforma mas rapida, segura, y esta pensada para los usuarios, estudiantes
+                y docentes.
+            </p>
+            <img class="img-fluid w-25 imgd" src="~/ImagenA/sc-2.png" />
+            <p>
+                vienes 14 de Julio del 2023
+            </p>
+        </div>
+
+        @if (noticiasNacionales != null && noticiasNacionales.Count > 0)
+        {
+            <ul>
+                @foreach (var noticia in noticiasNacionales)
+                {
+                    <li>
+                        <h3>@noticia.Titulo</h3>
+                        <p>@noticia.Descripcion</p>
+                        <p>@noticia.FechaPublicacion</p>
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <p>No hay mas noticias nacionales disponibles.</p>
+        }
+    </div>
+
+</div>
+
+
+
+
+

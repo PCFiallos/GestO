@@ -1,0 +1,45 @@
+﻿@{
+    var noticiasMundo = ViewBag.NoticiasMundo as List<Noticia>;
+}
+<div class="container stilo">
+    <div class="mb-3 text-center">
+        <h2>Noticias Internacionales</h2>
+        <div>
+            <h3>La ONU asegura que el mundo está en camino de eliminar el sida para 2030</h3>
+            <p>
+                Así lo asegura un informe de la Organización de Naciones Unidas (ONU), en el cual,
+                no obstante, se advierte que este objetivo depende de que los programas para combatir 
+                la enfermedad estén completamente financiados.
+
+                El África subsahariana, donde vive el 65% de todas las personas con el virus de inmunodeficiencia 
+                humana (VIH) que puede causar el sida, está logrando grandes avances en la eliminación de
+                la enfermedad.
+            </p>
+
+            <img class="img-fluid w-25 imgd" src="~/ImagenA/int-1.jpg"/>
+            <p>
+                vienes 14 de Julio del 2023
+            </p>
+        </div>
+
+        @if (noticiasMundo != null && noticiasMundo.Count > 0)
+        {
+            <ul>
+                @foreach (var noticia in noticiasMundo)
+                {
+                    <li>
+                        <h3>@noticia.Titulo</h3>
+                        <p>@noticia.Descripcion</p>
+                        <p>@noticia.FechaPublicacion</p>
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <p>No hay noticias nacionales disponibles.</p>
+        }
+    </div>
+</div>
+
+

@@ -1,0 +1,66 @@
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\bin\Debug\net7.0\appsettings.Development.json
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\bin\Debug\net7.0\appsettings.json
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\bin\Debug\net7.0\GestorNoticias.staticwebassets.runtime.json
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\bin\Debug\net7.0\GestorNoticias.exe
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\bin\Debug\net7.0\GestorNoticias.deps.json
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\bin\Debug\net7.0\GestorNoticias.runtimeconfig.json
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\bin\Debug\net7.0\GestorNoticias.dll
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\bin\Debug\net7.0\GestorNoticias.pdb
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.csproj.AssemblyReference.cache
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.GeneratedMSBuildEditorConfig.editorconfig
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.AssemblyInfoInputs.cache
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.AssemblyInfo.cs
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.csproj.CoreCompileInputs.cache
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.MvcApplicationPartsAssemblyInfo.cache
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.RazorAssemblyInfo.cache
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.RazorAssemblyInfo.cs
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\staticwebassets\msbuild.GestorNoticias.Microsoft.AspNetCore.StaticWebAssets.props
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\staticwebassets\msbuild.build.GestorNoticias.props
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GestorNoticias.props
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GestorNoticias.props
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\staticwebassets.pack.json
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\staticwebassets.build.json
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\staticwebassets.development.json
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\scopedcss\bundle\GestorNoticias.styles.css
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\scopedcss\projectbundle\GestorNoticias.bundle.scp.css
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.dll
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\refint\GestorNoticias.dll
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.pdb
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.genruntimeconfig.cache
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\ref\GestorNoticias.dll
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\POOPACII2023\Unidad II\Tarea-Unidad2\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.csproj.CopyComplete
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\bin\Debug\net7.0\appsettings.json
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\bin\Debug\net7.0\GestorNoticias.staticwebassets.runtime.json
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\bin\Debug\net7.0\GestorNoticias.exe
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\bin\Debug\net7.0\GestorNoticias.deps.json
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\bin\Debug\net7.0\GestorNoticias.runtimeconfig.json
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\bin\Debug\net7.0\GestorNoticias.dll
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\bin\Debug\net7.0\GestorNoticias.pdb
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.AssemblyInfo.cs
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\staticwebassets\msbuild.GestorNoticias.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\staticwebassets\msbuild.build.GestorNoticias.props
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GestorNoticias.props
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GestorNoticias.props
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\scopedcss\bundle\GestorNoticias.styles.css
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\scopedcss\projectbundle\GestorNoticias.bundle.scp.css
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.csproj.CopyComplete
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.dll
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\refint\GestorNoticias.dll
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.pdb
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\GestorNoticias.genruntimeconfig.cache
+C:\Users\Dell\Desktop\GestorNoticias\GestorNoticias\obj\Debug\net7.0\ref\GestorNoticias.dll
